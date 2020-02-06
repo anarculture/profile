@@ -49,8 +49,6 @@ p {
 .img-circle {
   border-radius: 50%;
   margin: 30px;
-  width: 500px;   /* This sets the width */
-
 }
 .text-center {
   text-align: center;
